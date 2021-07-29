@@ -1,1 +1,3 @@
 This is to see the best way to change text.
+We have made initial minor adjustment to this document.
+We will seek for approval before proceeding.
