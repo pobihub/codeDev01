@@ -1,3 +1,14 @@
 This is to see the best way to change text.
 We have made initial minor adjustment to this document.
 We will seek for approval before proceeding.
+Let's give an outline of what we plan to learn:
+1.Programming/coding
+  HTML, JavaScript, Python
+2.Software Engineering
+  -processes and tools
+3.Git and Git hub
+  -Version control
+  -Understand the tools
+4.Atom text editor/IDE
+  -Learn and master the tool
+5.Linux, Windows and Mac operating systems
