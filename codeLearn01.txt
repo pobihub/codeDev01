@@ -12,3 +12,6 @@ Let's give an outline of what we plan to learn:
 4.Atom text editor/IDE
   -Learn and master the tool
 5.Linux, Windows and Mac operating systems
+6. I don't want this
+7. I don't want this
+8. I don't want this
